@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenixsgame&label=Visite&color=fa0032&style=flat" alt="fenixsgame" /> </p>
 
-- 🔭 I work as **mapper for Impero | Fivem**
+- 🌱 I work with **Western Legends | RedM**
 
 - 👯 I work as **mapper for Città Eterna | Fivem**
 
-- 🌱 I work with **Western Legends | RedM**
+- 🔭 I work as **mapper for Impero | Fivem**
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/ZXUBy2snJE](https://discord.gg/ZXUBy2snJE)
 
