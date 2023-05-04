@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenixsgame&label=Visite&color=fa0032&style=flat" alt="fenixsgame" /> </p>
 
-- 🌱 I work with **several servers | RedM**
+- 🌱  I work as **mapper - dev for several servers | RedM**
 
 - 👯 I work as **mapper for several servers | FiveM**
 
