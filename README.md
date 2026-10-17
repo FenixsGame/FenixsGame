@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Fenixs</h1>
-<h3 align="center">Freelance mapper & scripter for FiveM / RedM servers · Unreal Engine · 3ds Max presentations</h3>
+<h3 align="center">Freelance mapper & scripter for FiveM / RedM servers · Unreal Engine · Blender</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fenixsgame&label=Visits&color=fa0032&style=flat" alt="fenixsgame" /> </p>
 
